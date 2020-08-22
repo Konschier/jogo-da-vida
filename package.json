@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.3",
     "typescript": "^3.7.5"
   },
   "scripts": {
@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Konschier/jogo-da-vida.git",
+  "author": "Konschier <maykonschier@gmail.com0>",
+  "license": "MIT"
 }
